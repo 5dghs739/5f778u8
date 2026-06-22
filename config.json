@@ -1,5 +1,5 @@
 {
-  "appEnabled": false,
-  "message": "Server Wartungsarbeiten",
+  "appEnabled": true,
+  "message": "",
   "minVersion": "1.0.0"
 }
